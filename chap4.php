@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The General Theory Chapter 4</title>
+
+  <link rel="stylesheet" type="text/css" href="assets/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+</head>
+
+
+
+<body>
+<div id="light"></div>
+
+<div class="wrapper">
+  <header class="header"> <a href="index.php"> <h1>The General Theory of Employment, Interest and Money</h1></a><p>John Maynard Keynes (1936)</p></header>
+  <aside class="sideright">
+    <div id="button">
+      <div id="bcircle">
+        <div id="b1"></div>
+        <div class="otherb" id="b2"></div>
+        <div class="otherb" id="b3"></div>
+        <div class="otherb" id="b4"></div>
+        <div class="otherb" id="b5"></div>
+        <div class="otherb" id="b6"></div>
+        <div class="otherb" id="b7"></div>
+        <div class="otherb" id="b8"></div>
+      </div>
+
+    </div>
+  </aside>
+
+  <aside class="sidebar">
+    <?php include_once("navigation.php"); ?>
+  </aside>
+  <article class="content">
+    <div id="chap4">
+		<h2> The Choice of Units </h2>
+
+<h3>I</h3>
+<p>IN this and the next three chapters we shall he occupied with an attempt to clear up certain perplexities which have no peculiar or exclusive relevance to the problems which it is our special purpose to examine. Thus these chapters are in the nature of a digression, which will prevent us for a time from pursuing our main theme. Their subject-matter is only discussed here because it does not happen to have been already treated elsewhere in a way which I find adequate to the needs of my own particular enquiry.
+
+<p>The three perplexities which most impeded my progress in writing this book, so that I could not express myself conveniently until I had found some solution for them, are: firstly, the choice of the units of quantity appropriate to the problems of the economic system as a whole; secondly, the part played by expectation in economic analysis; and, thirdly, the definition of income.
+
+<h3>II</h3>
+<p>That the units, in terms of which economists commonly work, are unsatisfactory can be illustrated by the concepts of the National Dividend, the stock of real capital and the general price-level:—
+
+<p>(i) The National Dividend, as defined by Marshall and Professor Pigou,[1] measures the volume of current output or real income and not the value of output or money-income.[2] Furthermore, it depends, in some sense, on net output; — on the net addition, that is to say, to the resources of the community available for consumption or for retention as capital stock, due to the economic activities and sacrifices of the current period, after allowing for the wastage of the stock of real capital existing at the commencement of the period. On this basis an attempt is made to erect a quantitative science. But it is a grave objection to this definition for such a purpose that the community’s output of goods and services is a non-homogeneous complex which cannot be measured, strictly speaking, except in certain special cases, as for example when all the items of one output are included in the same proportions in another output.
+
+<p>(ii) The difficulty is even greater when, in order to calculate net output, we try to measure the net addition to capital equipment; for we have to find some basis for a quantitative comparison between the new items of equipment produced during the period and the old items which have perished by wastage. In order to arrive at the net National Dividend, Professor Pigou[3] deducts such obsolescence, etc., “as may fairly be called ‘normal’; and the practical test of normality is that the depletion is sufficiently regular to be foreseen, if not in detail, at least in the large.” But, since this deduction is not a deduction in terms of money, he is involved in assuming that there can be a change in physical quantity, although there has been no physical change; i.e. he is covertly introducing changes in value. Moreover, he is unable to devise any satisfactory formula[4] to evaluate new equipment against old when, owing to changes in technique, the two are not identical. I believe that the concept at which Professor Pigou is aiming is the right and appropriate concept for economic analysis. But, until a satisfactory system of units has been adopted, its precise definition is an impossible task. The problem of comparing one real output with another and of then calculating net output by setting off new items of equipment against the wastage of old items presents conundrums which permit, one can confidently say, of no solution.
+
+<p>(iii) Thirdly, the well-known, but unavoidable, element of vagueness which admittedly attends the concept of the general price-level makes this term very unsatisfactory for the purposes of a causal analysis, which ought to be exact.
+
+<p>Nevertheless these difficulties are rightly regarded as “conundrums.” They are “purely theoretical” in the sense that they never perplex, or indeed enter in any way into, business decisions and have no relevance to the causal sequence of economic events, which are clear-cut and determinate in spite of the quantitative indeterminacy of these concepts. It is natural, therefore, to conclude that they not only lack precision but are unnecessary. Obviously our quantitative analysis must be expressed without using any quantitatively vague expressions. And, indeed, as soon as one makes the attempt, it becomes clear, as I hope to show, that one can get on much better without them.
+
+<p>The fact that two incommensurable collections of miscellaneous objects cannot in themselves provide the material for a quantitative analysis need not, of course, prevent us from making approximate statistical comparisons, depending on some broad element of judgment rather than of strict calculation, which may possess significance and validity within certain limits. But the proper place for such things as net real output and the general level of prices lies within the field of historical and statistical description, and their purpose should be to satisfy historical or social curiosity, a purpose for which perfect precision — such as our causal analysis requires, whether or not our knowledge of the actual values of the relevant quantities is complete or exact — is neither usual nor necessary. To say that net output to-day is greater, but the price-level lower, than ten years ago or one year ago, is a proposition of a similar character to the statement that Queen Victoria was a better queen but not a happier woman than Queen Elizabeth — a proposition not without meaning and not without interest, but unsuitable as material for the differential calculus. Our precision will be a mock precision if we try to use such partly vague and non-quantitative concepts as the basis of a quantitative analysis.
+
+<h3>III</h3>
+<p>On every particular occasion, let it be remembered, an entrepreneur is concerned with decisions as to the scale on which to work a given capital equipment; and when we say that the expectation of an increased demand, i.e. a raising of the aggregate demand function, will lead to an increase in aggregate output, we really mean that the firms, which own the capital equipment, will be induced to associate with it a greater aggregate employment of labour. In the case of an individual firm or industry producing a homogeneous product we can speak legitimately, if we wish, of increases or decreases of output. But when we are aggregating the activities of all firms, we cannot speak accurately except in terms of quantities of employment applied to a given equipment. The concepts of output as a whole and its price-level are not required in this context, since we have no need of an absolute measure of current aggregate output, such as would enable us to compare its amount with the amount which would result from the association of a different capital equipment with a different quantity of employment. When, for purposes of description or rough comparison, we wish to speak of an increase of output, we must rely on the general presumption that the amount of employment associated with a given capital equipment will be a satisfactory index of the amount of resultant output; — the two being presumed to increase and decrease together, though not in a definite numerical proportion.
+
+<p>In dealing with the theory of employment I propose, therefore, to make use of only two fundamental units of quantity, namely, quantities of money-value and quantities of employment. The first of these is strictly homogeneous, and the second can be made so. For, in so far as different grades and kinds of labour and salaried assistance enjoy a more or less fixed relative remuneration, the quantity of employment can be sufficiently defined for our purpose by taking an hour’s employment of ordinary labour as our unit and weighting an hour’s employment of special labour in proportion to its remuneration; i.e. an hour of special labour remunerated at double ordinary rates will count as two units. We shall call the unit in which the quantity of employment is measured the labour-unit; and the money-wage of a labour-unit we shall call the wage-unit.[5] Thus, if E is the wages (and salaries) bill, W the wage-unit, and N the quantity of employment, E = N.W.
+
+<p>This assumption of homogeneity in the supply of labour is not upset by the obvious fact of great differences in the specialised skill of individual workers and in their suitability for different occupations. For, if the remuneration of the workers is proportional to their efficiency, the differences are dealt with by our having regarded individuals as contributing to the supply of labour in proportion to their remuneration; whilst if, as output increases, a given firm has to bring in labour which is less and less efficient for its special purposes per wage-unit paid to it, this is merely one factor among others leading to a diminishing return from the capital equipment in terms of output as more labour is employed on it. We subsume, so to speak, the non-homogeneity of equally remunerated labour units in the equipment, which we regard as less and less adapted to employ the available labour units as output increases, instead of regarding the available labour units as less and less adapted to use a homogeneous capital equipment. Thus if there is no surplus of specialised or practised labour and the use of less suitable labour involves a higher labour cost per unit of output, this means that the rate at which the return from the equipment diminishes as employment increases is more rapid than it would be if there were such a surplus.[6] Even in the limiting case where different labour units were so highly specialised as to be altogether incapable of being substituted for one another, there is no awkwardness; for this merely means that the elasticity of supply of output from a particular type of capital equipment falls suddenly to zero when all the available labour specialised to its use is already employed.[7] Thus our assumption of a homogeneous unit of labour involves no difficulties unless there is great instability in the relative remuneration of different labour-units; and even this difficulty can be dealt with, if it arises, by supposing a rapid liability to change in the supply of labour and the shape of the aggregate supply function.
+
+<p>It is my belief that much unnecessary perplexity can be avoided if we limit ourselves strictly to the two units, money and labour, when we are dealing with the behaviour of the economic system as a whole; reserving the use of units of particular outputs and equipments to the occasions when we are analysing the output of individual firms or industries in isolation; and the use of vague concepts, such as the quantity of output as a whole, the quantity of capital equipment as a whole and the general level of prices, to the occasions when we are attempting some historical comparison which is within certain (perhaps fairly wide) limits avowedly unprecise and approximate.
+
+<p>It follows that we shall measure changes in current output by reference to the number of men employed (whether to satisfy consumers or to produce fresh capital equipment) on the existing capital equipment, skilled workers being weighted in proportion to their remuneration. We have no need of a quantitative comparison between this output and the output which would result from associating a different set of workers with a different capital equipment. To predict how entrepreneurs possessing a given equipment will respond to a shift in the aggregate demand function it is not necessary to know how the quantity of the resulting output, the standard of life and the general level of prices would compare with what they were at a different date or in another country.
+
+    </div>
+  </article>
+  <footer class="footer">Website by Alicia Pan</footer>
+</div>
+  
+
+  <script type="text/javascript" src="assets/time.js"></script>
+  <script type="text/javascript" src="assets/storageAvailable.js"></script>
+  <script type="text/javascript" src="assets/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The General Theory Chapter 5</title>
+
+  <link rel="stylesheet" type="text/css" href="assets/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+</head>
+
+
+
+<body>
+<div id="light"></div>
+
+<div class="wrapper">
+  <header class="header"> <a href="index.php"> <h1>The General Theory of Employment, Interest and Money</h1></a><p>John Maynard Keynes (1936)</p></header>
+  <aside class="sideright">
+    <div id="button">
+      <div id="bcircle">
+        <div id="b1"></div>
+        <div class="otherb" id="b2"></div>
+        <div class="otherb" id="b3"></div>
+        <div class="otherb" id="b4"></div>
+        <div class="otherb" id="b5"></div>
+        <div class="otherb" id="b6"></div>
+        <div class="otherb" id="b7"></div>
+        <div class="otherb" id="b8"></div>
+      </div>
+
+    </div>
+  </aside>
+
+  <aside class="sidebar">
+    <?php include_once("navigation.php"); ?>
+  </aside>
+  <article class="content">
+    <div id="chap5">
+		<h2> Expectation as Determining Output and Employment </h2>
+
+<h3>I</h3>
+<p>ALL production is for the purpose of ultimately satisfying a consumer. Time usually elapses, however — and sometimes much time — between the incurring of costs by the producer (with the consumer in view) and the purchase of the output by the ultimate consumer. Meanwhile the entrepreneur (including both the producer and the investor in this description) has to form the best expectations[1] he can as to what the consumers will be prepared to pay when he is ready to supply them (directly or indirectly) after the elapse of what may be a lengthy period; and he has no choice but to be guided by these expectations, if he is to produce at all by processes which occupy time.
+
+<p>These expectations, upon which business decisions depend, fall into two groups, certain individuals or firms being specialised in the business of framing the first type of expectation and others in the business of framing the second. The first type is concerned with the price which a manufacturer can expect to get for his “finished” output at the time when he commits himself to starting the process which will produce it; output being “finished” (from the point of view of the manufacturer) when it is ready to be used or to be sold to a second party. The second type is concerned with what the entrepreneur can hope to earn in the shape of future returns if he purchases (or, perhaps, manufactures) “finished” output as an addition to his capital equipment. We may call the former short-term expectation and the latter long-term expectation.
+
+<p>Thus the behaviour of each individual firm in deciding its daily[2] output will be determined by its short-term expectations — expectations as to the cost of output on various possible scales and expectations as to the sale-proceeds of this output; though, in the case of additions to capital equipment and even of sales to distributors, these short-term expectations will largely depend on the long-term (or medium-term) expectations of other parties. It is upon these various expectations that the amount of employment which the firms offer will depend. The actually realised results of the production and sale of output will only be relevant to employment in so far as they cause a modification of subsequent expectations. Nor, on the other hand, are the original expectations relevant, which led the firm to acquire the capital equipment and the stock of intermediate products and half-finished materials with which it finds itself at the time when it has to decide the next day’s output. Thus, on each and every occasion of such a decision, the decision will be made, with reference indeed to this equipment and stock, but in the light of the current expectations of prospective costs and sale-proceeds.
+
+<p>Now, in general, a change in expectations (whether short-term or long-term) will only produce its full effect on employment over a considerable period. The change in employment due to a change in expectations will not be the same on the second day after the change as on the first, or the same on the third day as on the second, and so on, even though there be no further change in expectations. In the case of short-term expectations this is because changes in expectation are not, as a rule, sufficiently violent or rapid, when they are for the worse, to cause the abandonment of work on all the productive processes which, in the light of the revised expectation, it was a mistake to have begun; whilst, when they are for the better, some time for preparation must needs elapse before employment can reach the level at which it would have stood if the state of expectation had been revised sooner. In the case of long-term expectations, equipment which will not be replaced will continue to give employment until it is worn out; whilst when the change in long-term expectations is for the better, employment may be at a higher level at first, than it will be after there has been time to adjust the equipment to the new situation.
+
+<p>If we suppose a state of expectation to continue for a sufficient length of time for the effect on employment to have worked itself out so completely that there is, broadly speaking, no piece of employment going on which would not have taken place if the new state of expectation had always existed, the steady level of employment thus attained may be called the long-period employment[3] corresponding to that state of expectation. It follows that, although expectation may change so frequently that the actual level of employment has never had time to reach the long-period employment corresponding to the existing state of expectation, nevertheless every state of expectation has its definite corresponding level of long-period employment.
+
+<p>Let us consider, first of all, the process of transition to a long-period position due to a change in expectation, which is not confused or interrupted by any further change in expectation. We will first suppose that the change is of such a character that the new long-period employment will be greater than the old. Now, as a rule, it will only be the rate of input which will be much affected at the beginning, that is to say, the volume of work on the earlier stages of new processes of production, whilst the output of consumption-goods and the amount of employment on the later stages of processes which were started before the change will remain much the same as before. In so far as there were stocks of partly finished goods, this conclusion may be modified; though it is likely to remain true that the initial increase in employment will be modest. As, however, the days pass by, employment will gradually increase. Moreover, it is easy to conceive of conditions which will cause it to increase at some stage to a higher level than the new long-period employment. For the process of building up capital to satisfy the new state of expectation may lead to more employment and also to more current consumption than will occur when the long-period position has been reached. Thus the change in expectation may lead to a gradual crescendo in the level of employment, rising to a peak and then declining to the new long-period level. The same thing may occur even if the new long-period level is the same as the old, if the change represents a change in the direction of consumption which renders certain existing processes and their equipment obsolete. Or again, if the new long-period employment is less than the old, the level of employment during the transition may fall for a time below what the new long-period level is going to be. Thus a mere change in expectation is capable of producing an oscillation of the same kind of shape as a cyclical movement, in the course of working itself out. It was movements of this kind which I discussed in my Treatise on Money in connection with the building up or the depletion of stocks of working and liquid capital consequent on change.
+
+<p>An uninterrupted process of transition, such as the above, to a new long-period position can be complicated in detail. But the actual course of events is more complicated still. For the state of expectation is liable to constant change, a new expectation being superimposed long before the previous change has fully worked itself out; so that the economic machine is occupied at any given time with a number of overlapping activities, the existence of which is due to various past states of expectation.
+
+
+    </div>
+  </article>
+  <footer class="footer">Website by Alicia Pan</footer>
+</div>
+  
+
+  <script type="text/javascript" src="assets/time.js"></script>
+  <script type="text/javascript" src="assets/storageAvailable.js"></script>
+  <script type="text/javascript" src="assets/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The General Theory Chapter 7</title>
+
+  <link rel="stylesheet" type="text/css" href="assets/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+</head>
+
+
+
+<body>
+<div id="light"></div>
+
+<div class="wrapper">
+  <header class="header"> <a href="index.php"> <h1>The General Theory of Employment, Interest and Money</h1></a><p>John Maynard Keynes (1936)</p></header>
+  <aside class="sideright">
+    <div id="button">
+      <div id="bcircle">
+        <div id="b1"></div>
+        <div class="otherb" id="b2"></div>
+        <div class="otherb" id="b3"></div>
+        <div class="otherb" id="b4"></div>
+        <div class="otherb" id="b5"></div>
+        <div class="otherb" id="b6"></div>
+        <div class="otherb" id="b7"></div>
+        <div class="otherb" id="b8"></div>
+      </div>
+
+    </div>
+  </aside>
+
+  <aside class="sidebar">
+    <?php include_once("navigation.php"); ?>
+  </aside>
+  <article class="content">
+    <div id="chap7">
+		<h2> The Meaning of Saving and Investment Further Considered </h2>
+
+<h3>I</h3>
+<p>IN the previous chapter Saving and Investment have been so defined that they are necessarily equal in amount, being, for the community as a whole, merely different aspects of the same thing. Several contemporary writers (including myself in my Treatise on Money) have, however, given special definitions of these terms on which they are not necessarily equal. Others have written on the assumption that they may be unequal without prefacing their discussion with any definitions at all. It will be useful, therefore, with a view to relating the foregoing to other discussions of these terms, to classify some of the various uses of them which a pear to be current.
+
+<p>So ar as I know, everyone agrees in meaning by Saving the excess of income over what is spent on consumption. It would certainly be very inconvenient and misleading not to mean this. Nor is there any important difference of opinion as to what is meant by expenditure on consumption. Thus the differences of usage arise either out of the definition of Investment or out of that of Income.
+
+<h3>II</h3>
+<p>Let us take Investment first. In popular usage it is common to mean by this the purchase of an asset, old or new, by an individual or a corporation. Occasionally, the term might be restricted to the purchase of an asset on the Stock Exchange. But we speak just as readily of investing, for example, in a house, or in a machine, or in a stock of finished or unfinished goods; and, broadly speaking, new investment, as distinguished from reinvestment, means the purchase of a capital asset of any kind out of income. If we reckon the sale of an investment as being negative investment, i.e. disinvestment, my own definition is in accordance with popular usage; since exchanges of old investments necessarily cancel out. We have, indeed, to adjust for the creation and discharge of debts (including changes in the quantity of credit or money); but since for the community as a whole the increase or decrease of the aggregate creditor position is always exactly equal to the increase or decrease of the aggregate debtor position, this complication also cancels out when we are dealing with aggregate investment. Thus, assuming that income in the popular sense corresponds to my net income, aggregate investment in the popular sense coincides with my definition of net investment, namely the net addition to all kinds of capital equipment, after allowing for those changes in the value of the old capital equipment which are taken into account in reckoning net income.
+
+<p>Investment, thus defined, includes, therefore, the increment of capital equipment, whether it consists of fixed capital, working capital or liquid capital; and the significant differences of definition (apart from the distinction between investment and net investment) are due to the exclusion from investment of one or more of these categories.
+
+<p>Mr. Hawtrey, for example, who attaches great importance to changes in liquid capital, i.e. to undesigned increments (or decrements) in the stock of unsold goods, has suggested a possible definition of investment from which such changes are excluded. In this case an excess of saving over investment would be the same thing as an undesigned increment in the stock of unsold goods, i.e. as an increase of liquid capital. Mr. Hawtrey has not convinced me that this is the factor to stress; for it lays all the emphasis on the correction of changes which were in the first instance unforeseen, as compared with those which are, rightly or wrongly, anticipated. Mr. Hawtrey regards the daily decisions of entrepreneurs concerning their scale of output as being varied from the scale of the previous day by reference to the changes in their stock of unsold goods. Certainly, in the case of consumption goods, this plays an important part in their decisions. But I see no object in excluding the play of other factors on their decisions; and I prefer, therefore, to emphasise the total change of effective demand and not merely that part of the change in effective demand which reflects the increase or decrease of unsold stocks in the previous period. Moreover, in the case of fixed capital, the increase or decrease of unused capacity corresponds to the increase or decrease in unsold stocks in its effect on decisions to produce; and I do not see how Mr. Hawtrey’s method can handle this at least equally important factor.
+
+<p>It seems probable that capital formation and capital consumption, as used by the Austrian school of economists, are not identical either with investment and disinvestment as defined above or with net investment and disinvestment. In particular, capital consumption is said to occur in circumstances where there is quite clearly no net decrease in capital equipment as defined above. I have, however, been unable to discover a reference to any passage where the meaning of these terms is clearly explained. The statement, for example, that capital formation occurs when there is a lengthening of the period of production does not much advance matters.
+
+
+    </div>
+  </article>
+  <footer class="footer">Website by Alicia Pan</footer>
+</div>
+  
+
+  <script type="text/javascript" src="assets/time.js"></script>
+  <script type="text/javascript" src="assets/storageAvailable.js"></script>
+  <script type="text/javascript" src="assets/script.js"></script>
+
+</body>
+</html>
